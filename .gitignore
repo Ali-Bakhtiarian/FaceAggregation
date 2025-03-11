@@ -1,6 +1,6 @@
 __pycache__/
 *.pyc
-*.log
+# *.log
 # output/
 # output_images/
 *.dat

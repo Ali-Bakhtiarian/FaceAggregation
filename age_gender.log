@@ -1,0 +1,349 @@
+2025-03-05 23:34:48,577 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:35:02,467 - Age/gender analysis completed in 13.886655 seconds
+2025-03-05 23:35:23,802 - Age/gender estimation completed in 35.224856 seconds
+2025-03-05 23:35:24,667 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-05 23:35:26,908 - Age/gender analysis completed in 2.23671 seconds
+2025-03-05 23:35:27,167 - Age/gender estimation completed in 2.500091 seconds
+2025-03-05 23:35:28,024 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-05 23:35:29,218 - Age/gender analysis completed in 1.192438 seconds
+2025-03-05 23:35:29,479 - Age/gender estimation completed in 1.454271 seconds
+2025-03-05 23:35:30,376 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-05 23:35:32,419 - Age/gender analysis completed in 2.03951 seconds
+2025-03-05 23:35:32,691 - Age/gender estimation completed in 2.314643 seconds
+2025-03-05 23:35:33,569 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-05 23:35:35,733 - Age/gender analysis completed in 2.160244 seconds
+2025-03-05 23:35:35,997 - Age/gender estimation completed in 2.427554 seconds
+2025-03-05 23:43:01,991 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:43:01,996 - Error in Age/Gender Service: analyze() got an unexpected keyword argument 'model_name'
+2025-03-05 23:45:55,056 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:45:55,059 - Error in Age/Gender Service: analyze() got an unexpected keyword argument 'model_name'
+2025-03-05 23:47:38,277 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:47:38,280 - Error in Age/Gender Service: analyze() got an unexpected keyword argument 'model_name'
+2025-03-05 23:58:57,764 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:59:02,232 - Age/gender analysis completed in 4.468004 seconds
+2025-03-05 23:59:23,535 - Age/gender estimation completed in 25.770442 seconds
+2025-03-05 23:59:24,394 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-05 23:59:26,513 - Age/gender analysis completed in 2.114717 seconds
+2025-03-05 23:59:26,783 - Age/gender estimation completed in 2.38907 seconds
+2025-03-05 23:59:27,629 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-05 23:59:28,727 - Age/gender analysis completed in 1.097109 seconds
+2025-03-05 23:59:28,985 - Age/gender estimation completed in 1.35517 seconds
+2025-03-05 23:59:29,852 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-05 23:59:31,757 - Age/gender analysis completed in 1.900444 seconds
+2025-03-05 23:59:32,028 - Age/gender estimation completed in 2.175403 seconds
+2025-03-05 23:59:32,915 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-05 23:59:34,930 - Age/gender analysis completed in 2.009678 seconds
+2025-03-05 23:59:35,198 - Age/gender estimation completed in 2.28309 seconds
+2025-03-06 00:01:05,827 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:01:05,832 - Error in Age/Gender Service: Yolo is an optional detector, ensure the library is installed. Please install using 'pip install ultralytics'
+2025-03-06 00:10:22,000 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:10:44,443 - Age/gender analysis completed in 22.43945 seconds
+2025-03-06 00:11:05,751 - Age/gender estimation completed in 43.751765 seconds
+2025-03-06 00:11:06,603 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:11:07,459 - Age/gender analysis completed in 0.855997 seconds
+2025-03-06 00:11:07,718 - Age/gender estimation completed in 1.114911 seconds
+2025-03-06 00:11:08,553 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:11:09,291 - Age/gender analysis completed in 0.735526 seconds
+2025-03-06 00:11:09,554 - Age/gender estimation completed in 1.001863 seconds
+2025-03-06 00:11:10,431 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:11:10,920 - Age/gender analysis completed in 0.485978 seconds
+2025-03-06 00:11:11,189 - Age/gender estimation completed in 0.757579 seconds
+2025-03-06 00:11:12,064 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:11:12,549 - Age/gender analysis completed in 0.481709 seconds
+2025-03-06 00:11:12,813 - Age/gender estimation completed in 0.748887 seconds
+2025-03-06 00:18:34,233 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: dlib
+2025-03-06 00:18:38,694 - Age/gender analysis completed in 4.460906 seconds
+2025-03-06 00:18:59,981 - Age/gender estimation completed in 25.74806 seconds
+2025-03-06 00:19:00,841 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: dlib
+2025-03-06 00:19:03,045 - Age/gender analysis completed in 2.200703 seconds
+2025-03-06 00:19:03,307 - Age/gender estimation completed in 2.466071 seconds
+2025-03-06 00:19:04,152 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: dlib
+2025-03-06 00:19:05,294 - Age/gender analysis completed in 1.14212 seconds
+2025-03-06 00:19:05,548 - Age/gender estimation completed in 1.395921 seconds
+2025-03-06 00:19:06,414 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: dlib
+2025-03-06 00:19:08,387 - Age/gender analysis completed in 1.968419 seconds
+2025-03-06 00:19:08,645 - Age/gender estimation completed in 2.231041 seconds
+2025-03-06 00:19:09,549 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: dlib
+2025-03-06 00:19:11,685 - Age/gender analysis completed in 2.136662 seconds
+2025-03-06 00:19:11,951 - Age/gender estimation completed in 2.402521 seconds
+2025-03-06 00:20:34,255 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: dlib
+2025-03-06 00:20:36,620 - Age/gender analysis completed in 2.362529 seconds
+2025-03-06 00:20:36,874 - Age/gender estimation completed in 2.619112 seconds
+2025-03-06 00:20:37,732 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: dlib
+2025-03-06 00:20:39,925 - Age/gender analysis completed in 2.188022 seconds
+2025-03-06 00:20:40,182 - Age/gender estimation completed in 2.449981 seconds
+2025-03-06 00:20:41,012 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: dlib
+2025-03-06 00:20:42,154 - Age/gender analysis completed in 1.138571 seconds
+2025-03-06 00:20:42,417 - Age/gender estimation completed in 1.405047 seconds
+2025-03-06 00:20:43,284 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: dlib
+2025-03-06 00:20:45,251 - Age/gender analysis completed in 1.963398 seconds
+2025-03-06 00:20:45,512 - Age/gender estimation completed in 2.227837 seconds
+2025-03-06 00:20:46,416 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: dlib
+2025-03-06 00:20:48,518 - Age/gender analysis completed in 2.096402 seconds
+2025-03-06 00:20:48,775 - Age/gender estimation completed in 2.358832 seconds
+2025-03-06 00:21:40,057 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: openvc
+2025-03-06 00:21:40,061 - Error in Age/Gender Service: Invalid model_name passed - face_detector/openvc
+2025-03-06 00:22:16,099 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: openvc
+2025-03-06 00:22:16,099 - Error in Age/Gender Service: Invalid model_name passed - face_detector/openvc
+2025-03-06 00:22:41,173 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: opencv
+2025-03-06 00:22:44,092 - Age/gender analysis completed in 2.918812 seconds
+2025-03-06 00:23:05,374 - Age/gender estimation completed in 24.201002 seconds
+2025-03-06 00:23:06,250 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: opencv
+2025-03-06 00:23:07,355 - Age/gender analysis completed in 1.101013 seconds
+2025-03-06 00:23:07,629 - Age/gender estimation completed in 1.377736 seconds
+2025-03-06 00:23:08,487 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: opencv
+2025-03-06 00:23:08,991 - Age/gender analysis completed in 0.49958 seconds
+2025-03-06 00:23:09,257 - Age/gender estimation completed in 0.770403 seconds
+2025-03-06 00:23:10,232 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: opencv
+2025-03-06 00:23:10,788 - Age/gender analysis completed in 0.553217 seconds
+2025-03-06 00:23:11,051 - Age/gender estimation completed in 0.818596 seconds
+2025-03-06 00:23:11,942 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: opencv
+2025-03-06 00:23:12,332 - Age/gender analysis completed in 0.390173 seconds
+2025-03-06 00:23:12,599 - Age/gender estimation completed in 0.656851 seconds
+2025-03-06 00:26:25,350 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: dlib
+2025-03-06 00:26:29,601 - Age/gender analysis completed in 4.245575 seconds
+2025-03-06 00:26:50,904 - Age/gender estimation completed in 25.553724 seconds
+2025-03-06 00:26:51,778 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: dlib
+2025-03-06 00:26:53,920 - Age/gender analysis completed in 2.138494 seconds
+2025-03-06 00:26:54,192 - Age/gender estimation completed in 2.414578 seconds
+2025-03-06 00:26:55,031 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: dlib
+2025-03-06 00:26:56,182 - Age/gender analysis completed in 1.146949 seconds
+2025-03-06 00:26:56,442 - Age/gender estimation completed in 1.411032 seconds
+2025-03-06 00:26:57,314 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: dlib
+2025-03-06 00:26:59,271 - Age/gender analysis completed in 1.95309 seconds
+2025-03-06 00:26:59,546 - Age/gender estimation completed in 2.231817 seconds
+2025-03-06 00:27:00,454 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: dlib
+2025-03-06 00:27:02,542 - Age/gender analysis completed in 2.085204 seconds
+2025-03-06 00:27:02,812 - Age/gender estimation completed in 2.358679 seconds
+2025-03-06 00:31:18,641 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: yolov8
+2025-03-06 00:31:24,387 - Age/gender analysis completed in 5.738564 seconds
+2025-03-06 00:31:45,703 - Age/gender estimation completed in 27.061828 seconds
+2025-03-06 00:31:46,595 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: yolov8
+2025-03-06 00:31:47,428 - Age/gender analysis completed in 0.83159 seconds
+2025-03-06 00:31:47,700 - Age/gender estimation completed in 1.105797 seconds
+2025-03-06 00:31:48,545 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: yolov8
+2025-03-06 00:31:49,232 - Age/gender analysis completed in 0.682123 seconds
+2025-03-06 00:31:49,507 - Age/gender estimation completed in 0.961493 seconds
+2025-03-06 00:31:50,397 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: yolov8
+2025-03-06 00:31:50,883 - Age/gender analysis completed in 0.486057 seconds
+2025-03-06 00:31:51,155 - Age/gender estimation completed in 0.758056 seconds
+2025-03-06 00:31:52,045 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: yolov8
+2025-03-06 00:31:52,570 - Age/gender analysis completed in 0.517456 seconds
+2025-03-06 00:31:52,851 - Age/gender estimation completed in 0.806464 seconds
+2025-03-06 11:48:56,723 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: ssd
+2025-03-06 11:49:25,248 - Age/gender analysis completed in 28.517129 seconds
+2025-03-06 11:49:46,567 - Age/gender estimation completed in 49.843828 seconds
+2025-03-06 11:49:47,473 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: ssd
+2025-03-06 11:49:48,371 - Age/gender analysis completed in 0.893681 seconds
+2025-03-06 11:49:48,642 - Age/gender estimation completed in 1.168238 seconds
+2025-03-06 11:49:49,490 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: ssd
+2025-03-06 11:49:49,795 - Age/gender analysis completed in 0.30248 seconds
+2025-03-06 11:49:50,067 - Age/gender estimation completed in 0.577 seconds
+2025-03-06 11:49:50,973 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: ssd
+2025-03-06 11:49:51,280 - Age/gender analysis completed in 0.303136 seconds
+2025-03-06 11:49:51,561 - Age/gender estimation completed in 0.588104 seconds
+2025-03-06 11:49:52,466 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: ssd
+2025-03-06 11:49:52,786 - Age/gender analysis completed in 0.315792 seconds
+2025-03-06 11:49:53,059 - Age/gender estimation completed in 0.593114 seconds
+2025-03-06 11:50:51,350 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: mtcnn
+2025-03-06 11:50:55,564 - Age/gender analysis completed in 4.211091 seconds
+2025-03-06 11:51:16,893 - Age/gender estimation completed in 25.542644 seconds
+2025-03-06 11:51:17,786 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: mtcnn
+2025-03-06 11:51:19,768 - Age/gender analysis completed in 1.975727 seconds
+2025-03-06 11:51:20,047 - Age/gender estimation completed in 2.261572 seconds
+2025-03-06 11:51:20,893 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: mtcnn
+2025-03-06 11:51:22,470 - Age/gender analysis completed in 1.573375 seconds
+2025-03-06 11:51:22,745 - Age/gender estimation completed in 1.85147 seconds
+2025-03-06 11:51:23,639 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: mtcnn
+2025-03-06 11:51:25,214 - Age/gender analysis completed in 1.570525 seconds
+2025-03-06 11:51:25,482 - Age/gender estimation completed in 1.842964 seconds
+2025-03-06 11:51:26,374 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: mtcnn
+2025-03-06 11:51:27,918 - Age/gender analysis completed in 1.539047 seconds
+2025-03-06 11:51:28,198 - Age/gender estimation completed in 1.824569 seconds
+2025-03-06 11:52:22,923 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: centerface
+2025-03-06 11:52:39,683 - Age/gender analysis completed in 16.756942 seconds
+2025-03-06 11:53:00,998 - Age/gender estimation completed in 38.074422 seconds
+2025-03-06 11:53:01,892 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: centerface
+2025-03-06 11:53:02,890 - Age/gender analysis completed in 0.991377 seconds
+2025-03-06 11:53:03,165 - Age/gender estimation completed in 1.272959 seconds
+2025-03-06 11:53:04,011 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: centerface
+2025-03-06 11:53:05,040 - Age/gender analysis completed in 1.02672 seconds
+2025-03-06 11:53:05,316 - Age/gender estimation completed in 1.305304 seconds
+2025-03-06 11:53:06,208 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: centerface
+2025-03-06 11:53:07,312 - Age/gender analysis completed in 1.098751 seconds
+2025-03-06 11:53:07,583 - Age/gender estimation completed in 1.374722 seconds
+2025-03-06 11:53:08,464 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: centerface
+2025-03-06 11:53:09,639 - Age/gender analysis completed in 1.167491 seconds
+2025-03-06 11:53:09,907 - Age/gender estimation completed in 1.443833 seconds
+2025-03-06 11:54:12,791 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: yunet
+2025-03-06 11:54:21,945 - Age/gender analysis completed in 9.151592 seconds
+2025-03-06 11:54:43,249 - Age/gender estimation completed in 30.457949 seconds
+2025-03-06 11:54:44,126 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: yunet
+2025-03-06 11:54:44,997 - Age/gender analysis completed in 0.864214 seconds
+2025-03-06 11:54:45,281 - Age/gender estimation completed in 1.154773 seconds
+2025-03-06 11:54:46,132 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: yunet
+2025-03-06 11:54:46,414 - Age/gender analysis completed in 0.279119 seconds
+2025-03-06 11:54:46,683 - Age/gender estimation completed in 0.550985 seconds
+2025-03-06 11:54:47,561 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: yunet
+2025-03-06 11:54:47,856 - Age/gender analysis completed in 0.289909 seconds
+2025-03-06 11:54:48,138 - Age/gender estimation completed in 0.577303 seconds
+2025-03-06 11:54:49,033 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: yunet
+2025-03-06 11:54:49,310 - Age/gender analysis completed in 0.270787 seconds
+2025-03-06 11:54:49,590 - Age/gender estimation completed in 0.557932 seconds
+2025-03-06 11:56:52,237 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: mediapipe
+2025-03-06 11:56:52,241 - Error in Age/Gender Service: MediaPipe is an optional detector, ensure the library is installed. Please install using 'pip install mediapipe'
+2025-03-06 12:13:54,518 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: yunet
+2025-03-06 12:13:56,893 - Age/gender analysis completed in 2.371612 seconds
+2025-03-06 12:14:18,220 - Age/gender estimation completed in 23.702029 seconds
+2025-03-06 12:14:19,096 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: yunet
+2025-03-06 12:14:19,866 - Age/gender analysis completed in 0.76432 seconds
+2025-03-06 12:14:20,137 - Age/gender estimation completed in 1.041623 seconds
+2025-03-06 12:14:20,979 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: yunet
+2025-03-06 12:14:21,224 - Age/gender analysis completed in 0.239027 seconds
+2025-03-06 12:14:21,496 - Age/gender estimation completed in 0.516267 seconds
+2025-03-06 12:14:22,392 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: yunet
+2025-03-06 12:14:22,650 - Age/gender analysis completed in 0.252122 seconds
+2025-03-06 12:14:22,925 - Age/gender estimation completed in 0.532656 seconds
+2025-03-06 12:14:23,818 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: yunet
+2025-03-06 12:14:24,072 - Age/gender analysis completed in 0.247458 seconds
+2025-03-06 12:14:24,347 - Age/gender estimation completed in 0.528334 seconds
+2025-03-06 12:18:25,000 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: mediapipe
+2025-03-06 12:18:25,663 - Error in Age/Gender Service: Failed to parse: node {
+  name: "facedetectionshortrange__facedetection__ToImageCalculator"
+  calculator: "ToImageCalculator"
+  input_stream: "IMAGE:image"
+  output_stream: "IMAGE:facedetectionshortrange__facedetection__multi_backend_image"
+}
+node {
+  name: "facedetectionshortrange__facedetection__ImageToTensorCalculator"
+  calculator: "ImageToTensorCalculator"
+  input_stream: "IMAGE:facedetectionshortrange__facedetection__multi_backend_image"
+  output_stream: "TENSORS:facedetectionshortrange__facedetection__input_tensors"
+  output_stream: "MATRIX:facedetectionshortrange__facedetection__transform_matrix"
+  node_options {
+    type_url: "type.googleapis.com/mediapipe.ImageToTensorCalculatorOptions"
+    value: "\030\001"\n\r\000\000\200\277\025\000\000\200?0\001\010\200\001\020\200\001"
+  }
+}
+node {
+  name: "facedetectionshortrange__facedetection__SsdAnchorsCalculator"
+  calculator: "SsdAnchorsCalculator"
+  output_side_packet: "facedetectionshortrange__facedetection__anchors"
+  node_options {
+    type_url: "type.googleapis.com/mediapipe.SsdAnchorsCalculatorOptions"
+    value: "\035\000\000\030>%\000\000@?-\000\000\000?5\000\000\000?]\000\000\200?p\001\010\200\001\020\200\0018\004P\010P\020P\020P\020m\000\000\200?"
+  }
+}
+node {
+  name: "facedetectionshortrange__facedetection__inferencecalculator__facedetectionshortrange__facedetection__InferenceCalculator"
+  calculator: "InferenceCalculatorCpu"
+  input_stream: "TENSORS:facedetectionshortrange__facedetection__input_tensors"
+  output_stream: "TENSORS:facedetectionshortrange__facedetection__detection_tensors"
+  node_options {
+    type_url: "type.googleapis.com/mediapipe.InferenceCalculatorOptions"
+    value: "*\002"\000\nBmediapipe/modules/face_detection/face_detection_short_range.tflite"
+  }
+}
+node {
+  name: "facedetectionshortrange__facedetection__TensorsToDetectionsCalculator"
+  calculator: "TensorsToDetectionsCalculator"
+  input_stream: "TENSORS:facedetectionshortrange__facedetection__detection_tensors"
+  output_stream: "DETECTIONS:facedetectionshortrange__facedetection__unfiltered_detections"
+  input_side_packet: "ANCHORS:facedetectionshortrange__facedetection__anchors"
+  node_options {
+    type_url: "type.googleapis.com/mediapipe.TensorsToDetectionsCalculatorOptions"
+    value: "\010\001\030\020H\004P\006X\002`\000p\001x\001\205\001\000\000\310B\020\200\007%\000\000\000C-\000\000\000C=\000\000\000C5\000\000\000C\235\001\000\000\000?"
+  }
+}
+node {
+  name: "facedetectionshortrange__facedetection__NonMaxSuppressionCalculator"
+  calculator: "NonMaxSuppressionCalculator"
+  input_stream: "facedetectionshortrange__facedetection__unfiltered_detections"
+  output_stream: "facedetectionshortrange__facedetection__filtered_detections"
+  options {
+    [mediapipe.NonMaxSuppressionCalculatorOptions.ext] {
+      min_suppression_threshold: 0.3
+      overlap_type: INTERSECTION_OVER_UNION
+      algorithm: WEIGHTED
+    }
+  }
+}
+node {
+  name: "facedetectionshortrange__facedetection__DetectionProjectionCalculator"
+  calculator: "DetectionProjectionCalculator"
+  input_stream: "DETECTIONS:facedetectionshortrange__facedetection__filtered_detections"
+  input_stream: "PROJECTION_MATRIX:facedetectionshortrange__facedetection__transform_matrix"
+  output_stream: "DETECTIONS:detections"
+}
+input_stream: "IMAGE:image"
+executor {
+}
+output_stream: "DETECTIONS:detections"
+type: "FaceDetectionShortRangeCpu"
+graph_options {
+  type_url: "type.googleapis.com/mediapipe.FaceDetectionOptions"
+  value: "\245\002333?"
+}
+
+2025-03-06 12:19:03,263 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: retinaface
+2025-03-06 12:22:23,945 - Age/gender analysis completed in 200.676124 seconds
+2025-03-06 12:22:45,282 - Age/gender estimation completed in 222.018664 seconds
+2025-03-06 12:22:46,171 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: retinaface
+2025-03-06 12:22:50,513 - Age/gender analysis completed in 4.335233 seconds
+2025-03-06 12:22:50,783 - Age/gender estimation completed in 4.61176 seconds
+2025-03-06 12:22:51,627 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: retinaface
+2025-03-06 12:22:55,458 - Age/gender analysis completed in 3.829372 seconds
+2025-03-06 12:22:55,731 - Age/gender estimation completed in 4.104707 seconds
+2025-03-06 12:22:56,632 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: retinaface
+2025-03-06 12:23:00,798 - Age/gender analysis completed in 4.160349 seconds
+2025-03-06 12:23:01,080 - Age/gender estimation completed in 4.447163 seconds
+2025-03-06 12:23:01,993 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: retinaface
+2025-03-06 12:23:06,203 - Age/gender analysis completed in 4.205758 seconds
+2025-03-06 12:23:06,470 - Age/gender estimation completed in 4.477183 seconds
+2025-03-06 12:44:20,137 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: fastmtcnn
+2025-03-06 12:44:20,141 - Error in Age/Gender Service: FastMtcnn is an optional detector, ensure the library is installed. Please install using 'pip install facenet-pytorch'
+2025-03-06 13:09:30,267 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: fastmtcnn
+2025-03-06 13:09:35,360 - Age/gender analysis completed in 5.088956 seconds
+2025-03-06 13:09:56,690 - Age/gender estimation completed in 26.422966 seconds
+2025-03-06 13:09:57,603 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: fastmtcnn
+2025-03-06 13:09:58,615 - Age/gender analysis completed in 1.005459 seconds
+2025-03-06 13:09:58,626 - Age/gender estimation completed in 1.023454 seconds
+2025-03-06 13:09:59,474 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: fastmtcnn
+2025-03-06 13:10:00,272 - Age/gender analysis completed in 0.796535 seconds
+2025-03-06 13:10:00,280 - Age/gender estimation completed in 0.806538 seconds
+2025-03-06 13:10:01,170 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: fastmtcnn
+2025-03-06 13:10:01,803 - Age/gender analysis completed in 0.629428 seconds
+2025-03-06 13:10:01,814 - Age/gender estimation completed in 0.643945 seconds
+2025-03-06 13:10:02,724 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: fastmtcnn
+2025-03-06 13:10:03,429 - Age/gender analysis completed in 0.701759 seconds
+2025-03-06 13:10:03,440 - Age/gender estimation completed in 0.715754 seconds
+2025-03-06 13:11:06,186 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: yolov8
+2025-03-06 13:11:11,694 - Age/gender analysis completed in 5.502565 seconds
+2025-03-06 13:11:33,024 - Age/gender estimation completed in 26.837193 seconds
+2025-03-06 13:11:33,913 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: yolov8
+2025-03-06 13:11:34,793 - Age/gender analysis completed in 0.876905 seconds
+2025-03-06 13:11:34,816 - Age/gender estimation completed in 0.903552 seconds
+2025-03-06 13:11:35,660 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: yolov8
+2025-03-06 13:11:36,355 - Age/gender analysis completed in 0.692398 seconds
+2025-03-06 13:11:36,363 - Age/gender estimation completed in 0.702396 seconds
+2025-03-06 13:11:37,249 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: yolov8
+2025-03-06 13:11:37,733 - Age/gender analysis completed in 0.479884 seconds
+2025-03-06 13:11:37,743 - Age/gender estimation completed in 0.493878 seconds
+2025-03-06 13:11:38,630 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: yolov8
+2025-03-06 13:11:39,152 - Age/gender analysis completed in 0.517889 seconds
+2025-03-06 13:11:39,162 - Age/gender estimation completed in 0.532037 seconds
+2025-03-06 13:17:28,574 - Starting age/gender estimation for redis_key: 20c5aa03310b6447268a2b8be13e4584 with backend: yunet
+2025-03-06 13:17:31,178 - Age/gender analysis completed in 2.598179 seconds
+2025-03-06 13:17:52,500 - Age/gender estimation completed in 23.925751 seconds
+2025-03-06 13:17:53,360 - Starting age/gender estimation for redis_key: 63fba3ffefff7e99be8e460ee7451b28 with backend: yunet
+2025-03-06 13:17:54,171 - Age/gender analysis completed in 0.805231 seconds
+2025-03-06 13:17:54,456 - Age/gender estimation completed in 1.095145 seconds
+2025-03-06 13:17:55,289 - Starting age/gender estimation for redis_key: 42465f204cf78ccaa3f599dce92e717c with backend: yunet
+2025-03-06 13:17:55,549 - Age/gender analysis completed in 0.257647 seconds
+2025-03-06 13:17:55,823 - Age/gender estimation completed in 0.53394 seconds
+2025-03-06 13:17:56,701 - Starting age/gender estimation for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb with backend: yunet
+2025-03-06 13:17:56,990 - Age/gender analysis completed in 0.282724 seconds
+2025-03-06 13:17:57,264 - Age/gender estimation completed in 0.562941 seconds
+2025-03-06 13:17:58,178 - Starting age/gender estimation for redis_key: 5ede97d55c8ced4bc1d1167091258399 with backend: yunet
+2025-03-06 13:17:58,461 - Age/gender analysis completed in 0.275979 seconds
+2025-03-06 13:17:58,734 - Age/gender estimation completed in 0.556554 seconds

@@ -1,0 +1,396 @@
+2025-03-05 23:34:26,947 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:34:27,011 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:34:48,044 - Landmark extraction completed in 21.03275 seconds
+2025-03-05 23:34:48,317 - Face detection completed in 21.369813 seconds
+2025-03-05 23:35:24,071 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-05 23:35:24,141 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-05 23:35:24,146 - Landmark extraction completed in 0.00538 seconds
+2025-03-05 23:35:24,410 - Face detection completed in 0.338461 seconds
+2025-03-05 23:35:27,439 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-05 23:35:27,480 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-05 23:35:27,484 - Landmark extraction completed in 0.003592 seconds
+2025-03-05 23:35:27,754 - Face detection completed in 0.315333 seconds
+2025-03-05 23:35:29,752 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-05 23:35:29,840 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-05 23:35:29,844 - Landmark extraction completed in 0.003552 seconds
+2025-03-05 23:35:30,118 - Face detection completed in 0.366067 seconds
+2025-03-05 23:35:32,958 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-05 23:35:33,042 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-05 23:35:33,045 - Landmark extraction completed in 0.002996 seconds
+2025-03-05 23:35:33,304 - Face detection completed in 0.346504 seconds
+2025-03-05 23:43:01,408 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:43:01,467 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:43:01,471 - Landmark extraction completed in 0.004128 seconds
+2025-03-05 23:43:01,731 - Face detection completed in 0.322579 seconds
+2025-03-05 23:45:54,474 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:45:54,534 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:45:54,537 - Landmark extraction completed in 0.003228 seconds
+2025-03-05 23:45:54,793 - Face detection completed in 0.319049 seconds
+2025-03-05 23:47:37,688 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:47:37,744 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:47:37,748 - Landmark extraction completed in 0.003246 seconds
+2025-03-05 23:47:38,007 - Face detection completed in 0.319037 seconds
+2025-03-05 23:58:57,166 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:58:57,225 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-05 23:58:57,225 - Landmark extraction completed in 0.0 seconds
+2025-03-05 23:58:57,491 - Face detection completed in 0.325001 seconds
+2025-03-05 23:59:23,805 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-05 23:59:23,874 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-05 23:59:23,874 - Landmark extraction completed in 0.0 seconds
+2025-03-05 23:59:24,135 - Face detection completed in 0.330318 seconds
+2025-03-05 23:59:27,051 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-05 23:59:27,082 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-05 23:59:27,082 - Landmark extraction completed in 0.0 seconds
+2025-03-05 23:59:27,367 - Face detection completed in 0.316225 seconds
+2025-03-05 23:59:29,254 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-05 23:59:29,319 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-05 23:59:29,319 - Landmark extraction completed in 0.0 seconds
+2025-03-05 23:59:29,588 - Face detection completed in 0.33358 seconds
+2025-03-05 23:59:32,302 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-05 23:59:32,388 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-05 23:59:32,390 - Landmark extraction completed in 0.002005 seconds
+2025-03-05 23:59:32,651 - Face detection completed in 0.349601 seconds
+2025-03-06 00:01:05,226 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:01:05,272 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:01:05,288 - Landmark extraction completed in 0.015659 seconds
+2025-03-06 00:01:05,556 - Face detection completed in 0.329743 seconds
+2025-03-06 00:10:21,393 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:10:21,450 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:10:21,454 - Landmark extraction completed in 0.003752 seconds
+2025-03-06 00:10:21,723 - Face detection completed in 0.329562 seconds
+2025-03-06 00:11:06,015 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:11:06,084 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:11:06,090 - Landmark extraction completed in 0.006003 seconds
+2025-03-06 00:11:06,348 - Face detection completed in 0.333027 seconds
+2025-03-06 00:11:07,986 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:11:08,033 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:11:08,033 - Landmark extraction completed in 0.0 seconds
+2025-03-06 00:11:08,293 - Face detection completed in 0.307608 seconds
+2025-03-06 00:11:09,819 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:11:09,905 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:11:09,908 - Landmark extraction completed in 0.002293 seconds
+2025-03-06 00:11:10,169 - Face detection completed in 0.350522 seconds
+2025-03-06 00:11:11,462 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:11:11,537 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:11:11,537 - Landmark extraction completed in 0.0 seconds
+2025-03-06 00:11:11,804 - Face detection completed in 0.341288 seconds
+2025-03-06 00:18:12,614 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:18:12,678 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:18:12,690 - Saved image with landmarks to output_images\20c5aa03310b6447268a2b8be13e4584_landmarks.jpg
+2025-03-06 00:18:33,709 - Landmark extraction completed in 21.030897 seconds
+2025-03-06 00:18:33,975 - Face detection completed in 21.360493 seconds
+2025-03-06 00:19:00,245 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:19:00,307 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:19:00,322 - Saved image with landmarks to output_images\63fba3ffefff7e99be8e460ee7451b28_landmarks.jpg
+2025-03-06 00:19:00,322 - Landmark extraction completed in 0.015167 seconds
+2025-03-06 00:19:00,585 - Face detection completed in 0.340093 seconds
+2025-03-06 00:19:03,579 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:19:03,620 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:19:03,620 - Saved image with landmarks to output_images\42465f204cf78ccaa3f599dce92e717c_landmarks.jpg
+2025-03-06 00:19:03,620 - Landmark extraction completed in 0.0 seconds
+2025-03-06 00:19:03,893 - Face detection completed in 0.314563 seconds
+2025-03-06 00:19:05,817 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:19:05,886 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:19:05,891 - Saved image with landmarks to output_images\c5b0787bf9bb4d030fe0e0b15d97aadb_landmarks.jpg
+2025-03-06 00:19:05,891 - Landmark extraction completed in 0.005256 seconds
+2025-03-06 00:19:06,148 - Face detection completed in 0.330935 seconds
+2025-03-06 00:19:08,922 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:19:09,008 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:19:09,018 - Saved image with landmarks to output_images\5ede97d55c8ced4bc1d1167091258399_landmarks.jpg
+2025-03-06 00:19:09,018 - Landmark extraction completed in 0.010469 seconds
+2025-03-06 00:19:09,289 - Face detection completed in 0.36699 seconds
+2025-03-06 00:20:33,635 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:20:33,698 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:20:33,709 - Saved image with landmarks to output_images\20c5aa03310b6447268a2b8be13e4584_landmarks.jpg
+2025-03-06 00:20:33,712 - Landmark extraction completed in 0.013556 seconds
+2025-03-06 00:20:33,968 - Face detection completed in 0.333139 seconds
+2025-03-06 00:20:37,144 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:20:37,207 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:20:37,215 - Saved image with landmarks to output_images\63fba3ffefff7e99be8e460ee7451b28_landmarks.jpg
+2025-03-06 00:20:37,215 - Landmark extraction completed in 0.008419 seconds
+2025-03-06 00:20:37,473 - Face detection completed in 0.32953 seconds
+2025-03-06 00:20:40,452 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:20:40,487 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:20:40,487 - Saved image with landmarks to output_images\42465f204cf78ccaa3f599dce92e717c_landmarks.jpg
+2025-03-06 00:20:40,487 - Landmark extraction completed in 0.0 seconds
+2025-03-06 00:20:40,757 - Face detection completed in 0.30407 seconds
+2025-03-06 00:20:42,682 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:20:42,762 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:20:42,770 - Saved image with landmarks to output_images\c5b0787bf9bb4d030fe0e0b15d97aadb_landmarks.jpg
+2025-03-06 00:20:42,771 - Landmark extraction completed in 0.008595 seconds
+2025-03-06 00:20:43,029 - Face detection completed in 0.346393 seconds
+2025-03-06 00:20:45,789 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:20:45,875 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:20:45,880 - Saved image with landmarks to output_images\5ede97d55c8ced4bc1d1167091258399_landmarks.jpg
+2025-03-06 00:20:45,880 - Landmark extraction completed in 0.005651 seconds
+2025-03-06 00:20:46,139 - Face detection completed in 0.350369 seconds
+2025-03-06 00:21:39,468 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:21:39,523 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:21:39,530 - Saved image with landmarks to output_images\20c5aa03310b6447268a2b8be13e4584_landmarks.jpg
+2025-03-06 00:21:39,530 - Landmark extraction completed in 0.006922 seconds
+2025-03-06 00:21:39,795 - Face detection completed in 0.327507 seconds
+2025-03-06 00:22:15,509 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:22:15,551 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:22:15,574 - Saved image with landmarks to output_images\20c5aa03310b6447268a2b8be13e4584_landmarks.jpg
+2025-03-06 00:22:15,574 - Landmark extraction completed in 0.022334 seconds
+2025-03-06 00:22:15,831 - Face detection completed in 0.322281 seconds
+2025-03-06 00:22:40,558 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:22:40,606 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:22:40,622 - Saved image with landmarks to output_images\20c5aa03310b6447268a2b8be13e4584_landmarks.jpg
+2025-03-06 00:22:40,622 - Landmark extraction completed in 0.016534 seconds
+2025-03-06 00:22:40,904 - Face detection completed in 0.346245 seconds
+2025-03-06 00:23:05,642 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:23:05,711 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:23:05,715 - Saved image with landmarks to output_images\63fba3ffefff7e99be8e460ee7451b28_landmarks.jpg
+2025-03-06 00:23:05,715 - Landmark extraction completed in 0.004615 seconds
+2025-03-06 00:23:05,986 - Face detection completed in 0.344296 seconds
+2025-03-06 00:23:07,897 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:23:07,938 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:23:07,940 - Saved image with landmarks to output_images\42465f204cf78ccaa3f599dce92e717c_landmarks.jpg
+2025-03-06 00:23:07,940 - Landmark extraction completed in 0.001965 seconds
+2025-03-06 00:23:08,215 - Face detection completed in 0.316547 seconds
+2025-03-06 00:23:09,523 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:23:09,591 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:23:09,591 - Saved image with landmarks to output_images\c5b0787bf9bb4d030fe0e0b15d97aadb_landmarks.jpg
+2025-03-06 00:23:09,602 - Landmark extraction completed in 0.01101 seconds
+2025-03-06 00:23:09,965 - Face detection completed in 0.440974 seconds
+2025-03-06 00:23:11,330 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:23:11,414 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:23:11,419 - Saved image with landmarks to output_images\5ede97d55c8ced4bc1d1167091258399_landmarks.jpg
+2025-03-06 00:23:11,421 - Landmark extraction completed in 0.00701 seconds
+2025-03-06 00:23:11,685 - Face detection completed in 0.355317 seconds
+2025-03-06 00:25:42,681 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:25:42,743 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:26:03,782 - Landmark extraction completed in 21.038993 seconds
+2025-03-06 00:26:25,093 - Face detection completed in 42.411386 seconds
+2025-03-06 00:26:51,178 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:26:51,244 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:26:51,249 - Landmark extraction completed in 0.004964 seconds
+2025-03-06 00:26:51,514 - Face detection completed in 0.336587 seconds
+2025-03-06 00:26:54,456 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:26:54,495 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:26:54,495 - Landmark extraction completed in 0.0 seconds
+2025-03-06 00:26:54,762 - Face detection completed in 0.305848 seconds
+2025-03-06 00:26:56,709 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:26:56,788 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:26:56,791 - Landmark extraction completed in 0.003174 seconds
+2025-03-06 00:26:57,055 - Face detection completed in 0.346204 seconds
+2025-03-06 00:26:59,819 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:26:59,900 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:26:59,900 - Landmark extraction completed in 0.0 seconds
+2025-03-06 00:27:00,191 - Face detection completed in 0.3712 seconds
+2025-03-06 00:30:57,010 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:30:57,065 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 00:30:57,075 - Landmark extraction completed in 0.010087 seconds
+2025-03-06 00:31:18,378 - Face detection completed in 21.368075 seconds
+2025-03-06 00:31:45,978 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:31:46,051 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 00:31:46,059 - Landmark extraction completed in 0.008206 seconds
+2025-03-06 00:31:46,330 - Face detection completed in 0.352074 seconds
+2025-03-06 00:31:47,973 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:31:48,009 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 00:31:48,012 - Landmark extraction completed in 0.002509 seconds
+2025-03-06 00:31:48,283 - Face detection completed in 0.310517 seconds
+2025-03-06 00:31:49,771 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:31:49,842 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 00:31:49,842 - Landmark extraction completed in 0.0 seconds
+2025-03-06 00:31:50,130 - Face detection completed in 0.358718 seconds
+2025-03-06 00:31:51,426 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:31:51,506 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 00:31:51,518 - Landmark extraction completed in 0.011979 seconds
+2025-03-06 00:31:51,771 - Face detection completed in 0.345174 seconds
+2025-03-06 11:46:50,441 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:46:50,511 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:47:13,601 - Error in Face Landmark Service: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-03-06 11:48:14,000 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:48:14,062 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:48:35,119 - Landmark extraction completed in 21.057044 seconds
+2025-03-06 11:48:56,455 - Face detection completed in 42.455822 seconds
+2025-03-06 11:49:46,852 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 11:49:46,924 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 11:49:46,930 - Landmark extraction completed in 0.006514 seconds
+2025-03-06 11:49:47,203 - Face detection completed in 0.351086 seconds
+2025-03-06 11:49:48,915 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 11:49:48,958 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 11:49:48,961 - Landmark extraction completed in 0.003 seconds
+2025-03-06 11:49:49,232 - Face detection completed in 0.317036 seconds
+2025-03-06 11:49:50,342 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 11:49:50,439 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 11:49:50,441 - Landmark extraction completed in 0.003 seconds
+2025-03-06 11:49:50,705 - Face detection completed in 0.362836 seconds
+2025-03-06 11:49:51,845 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 11:49:51,926 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 11:49:51,928 - Landmark extraction completed in 0.002041 seconds
+2025-03-06 11:49:52,196 - Face detection completed in 0.35104 seconds
+2025-03-06 11:50:50,755 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:50:50,814 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:50:50,821 - Landmark extraction completed in 0.006141 seconds
+2025-03-06 11:50:51,092 - Face detection completed in 0.336258 seconds
+2025-03-06 11:51:17,162 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 11:51:17,231 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 11:51:17,235 - Landmark extraction completed in 0.004002 seconds
+2025-03-06 11:51:17,514 - Face detection completed in 0.35191 seconds
+2025-03-06 11:51:20,315 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 11:51:20,361 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 11:51:20,363 - Landmark extraction completed in 0.002071 seconds
+2025-03-06 11:51:20,636 - Face detection completed in 0.321468 seconds
+2025-03-06 11:51:23,018 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 11:51:23,091 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 11:51:23,095 - Landmark extraction completed in 0.004001 seconds
+2025-03-06 11:51:23,374 - Face detection completed in 0.355077 seconds
+2025-03-06 11:51:25,753 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 11:51:25,834 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 11:51:25,836 - Landmark extraction completed in 0.002003 seconds
+2025-03-06 11:51:26,105 - Face detection completed in 0.351472 seconds
+2025-03-06 11:52:22,334 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:52:22,391 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:52:22,398 - Landmark extraction completed in 0.006503 seconds
+2025-03-06 11:52:22,666 - Face detection completed in 0.331673 seconds
+2025-03-06 11:53:01,271 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 11:53:01,347 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 11:53:01,352 - Landmark extraction completed in 0.005132 seconds
+2025-03-06 11:53:01,623 - Face detection completed in 0.351569 seconds
+2025-03-06 11:53:03,430 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 11:53:03,472 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 11:53:03,475 - Landmark extraction completed in 0.003001 seconds
+2025-03-06 11:53:03,750 - Face detection completed in 0.320121 seconds
+2025-03-06 11:53:05,584 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 11:53:05,657 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 11:53:05,660 - Landmark extraction completed in 0.002511 seconds
+2025-03-06 11:53:05,940 - Face detection completed in 0.355288 seconds
+2025-03-06 11:53:07,845 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 11:53:07,918 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 11:53:07,921 - Landmark extraction completed in 0.003147 seconds
+2025-03-06 11:53:08,195 - Face detection completed in 0.349768 seconds
+2025-03-06 11:54:12,184 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:54:12,247 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:54:12,255 - Landmark extraction completed in 0.008005 seconds
+2025-03-06 11:54:12,521 - Face detection completed in 0.337023 seconds
+2025-03-06 11:54:43,519 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 11:54:43,584 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 11:54:43,590 - Landmark extraction completed in 0.004987 seconds
+2025-03-06 11:54:43,860 - Face detection completed in 0.340885 seconds
+2025-03-06 11:54:45,544 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 11:54:45,584 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 11:54:45,586 - Landmark extraction completed in 0.003001 seconds
+2025-03-06 11:54:45,863 - Face detection completed in 0.318793 seconds
+2025-03-06 11:54:46,955 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 11:54:47,034 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 11:54:47,037 - Landmark extraction completed in 0.002998 seconds
+2025-03-06 11:54:47,304 - Face detection completed in 0.349621 seconds
+2025-03-06 11:54:48,409 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 11:54:48,488 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 11:54:48,492 - Landmark extraction completed in 0.0031 seconds
+2025-03-06 11:54:48,767 - Face detection completed in 0.358482 seconds
+2025-03-06 11:56:51,632 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:56:51,696 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 11:56:51,702 - Landmark extraction completed in 0.006002 seconds
+2025-03-06 11:56:51,968 - Face detection completed in 0.336184 seconds
+2025-03-06 12:13:53,922 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 12:13:53,976 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 12:13:53,984 - Landmark extraction completed in 0.008095 seconds
+2025-03-06 12:13:54,259 - Face detection completed in 0.337276 seconds
+2025-03-06 12:14:18,490 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 12:14:18,555 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 12:14:18,560 - Landmark extraction completed in 0.005555 seconds
+2025-03-06 12:14:18,826 - Face detection completed in 0.336625 seconds
+2025-03-06 12:14:20,405 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 12:14:20,443 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 12:14:20,445 - Landmark extraction completed in 0.003 seconds
+2025-03-06 12:14:20,711 - Face detection completed in 0.306077 seconds
+2025-03-06 12:14:21,767 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 12:14:21,841 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 12:14:21,843 - Landmark extraction completed in 0.002431 seconds
+2025-03-06 12:14:22,121 - Face detection completed in 0.354105 seconds
+2025-03-06 12:14:23,195 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 12:14:23,276 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 12:14:23,278 - Landmark extraction completed in 0.002509 seconds
+2025-03-06 12:14:23,548 - Face detection completed in 0.353344 seconds
+2025-03-06 12:18:24,400 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 12:18:24,461 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 12:18:24,470 - Landmark extraction completed in 0.008985 seconds
+2025-03-06 12:18:24,738 - Face detection completed in 0.337801 seconds
+2025-03-06 12:19:02,673 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 12:19:02,730 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 12:19:02,735 - Landmark extraction completed in 0.005868 seconds
+2025-03-06 12:19:03,007 - Face detection completed in 0.3341 seconds
+2025-03-06 12:22:45,551 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 12:22:45,613 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 12:22:45,621 - Landmark extraction completed in 0.007515 seconds
+2025-03-06 12:22:45,901 - Face detection completed in 0.351498 seconds
+2025-03-06 12:22:51,055 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 12:22:51,096 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 12:22:51,099 - Landmark extraction completed in 0.002511 seconds
+2025-03-06 12:22:51,370 - Face detection completed in 0.315592 seconds
+2025-03-06 12:22:56,021 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 12:22:56,098 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 12:22:56,100 - Landmark extraction completed in 0.001513 seconds
+2025-03-06 12:22:56,373 - Face detection completed in 0.352122 seconds
+2025-03-06 12:23:01,358 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 12:23:01,456 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 12:23:01,458 - Landmark extraction completed in 0.002513 seconds
+2025-03-06 12:23:01,726 - Face detection completed in 0.368027 seconds
+2025-03-06 12:44:19,519 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 12:44:19,580 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 12:44:19,589 - Landmark extraction completed in 0.00874 seconds
+2025-03-06 12:44:19,867 - Face detection completed in 0.347557 seconds
+2025-03-06 13:08:47,572 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 13:08:47,631 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 13:09:08,681 - Landmark extraction completed in 21.049633 seconds
+2025-03-06 13:09:29,997 - Face detection completed in 42.424783 seconds
+2025-03-06 13:09:56,995 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 13:09:57,059 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 13:09:57,065 - Landmark extraction completed in 0.005999 seconds
+2025-03-06 13:09:57,334 - Face detection completed in 0.339127 seconds
+2025-03-06 13:09:58,897 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 13:09:58,938 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 13:09:58,941 - Landmark extraction completed in 0.003012 seconds
+2025-03-06 13:09:59,215 - Face detection completed in 0.317947 seconds
+2025-03-06 13:10:00,559 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 13:10:00,636 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 13:10:00,639 - Landmark extraction completed in 0.002513 seconds
+2025-03-06 13:10:00,904 - Face detection completed in 0.344436 seconds
+2025-03-06 13:10:02,090 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 13:10:02,175 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 13:10:02,178 - Landmark extraction completed in 0.003998 seconds
+2025-03-06 13:10:02,456 - Face detection completed in 0.366024 seconds
+2025-03-06 13:11:05,582 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 13:11:05,641 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 13:11:05,648 - Landmark extraction completed in 0.007 seconds
+2025-03-06 13:11:05,915 - Face detection completed in 0.332782 seconds
+2025-03-06 13:11:33,291 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 13:11:33,357 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 13:11:33,362 - Landmark extraction completed in 0.005003 seconds
+2025-03-06 13:11:33,644 - Face detection completed in 0.353736 seconds
+2025-03-06 13:11:35,087 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 13:11:35,129 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 13:11:35,132 - Landmark extraction completed in 0.003 seconds
+2025-03-06 13:11:35,402 - Face detection completed in 0.314569 seconds
+2025-03-06 13:11:36,628 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 13:11:36,703 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 13:11:36,706 - Landmark extraction completed in 0.002997 seconds
+2025-03-06 13:11:36,981 - Face detection completed in 0.352925 seconds
+2025-03-06 13:11:38,012 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 13:11:38,091 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 13:11:38,094 - Landmark extraction completed in 0.003 seconds
+2025-03-06 13:11:38,364 - Face detection completed in 0.35114 seconds
+2025-03-06 13:17:27,952 - Starting face detection for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 13:17:28,021 - Face detected, starting landmark extraction for redis_key: 20c5aa03310b6447268a2b8be13e4584
+2025-03-06 13:17:28,033 - Landmark extraction completed in 0.011999 seconds
+2025-03-06 13:17:28,302 - Face detection completed in 0.351726 seconds
+2025-03-06 13:17:52,769 - Starting face detection for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 13:17:52,832 - Face detected, starting landmark extraction for redis_key: 63fba3ffefff7e99be8e460ee7451b28
+2025-03-06 13:17:52,838 - Landmark extraction completed in 0.005769 seconds
+2025-03-06 13:17:53,105 - Face detection completed in 0.33571 seconds
+2025-03-06 13:17:54,715 - Starting face detection for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 13:17:54,758 - Face detected, starting landmark extraction for redis_key: 42465f204cf78ccaa3f599dce92e717c
+2025-03-06 13:17:54,761 - Landmark extraction completed in 0.004143 seconds
+2025-03-06 13:17:55,029 - Face detection completed in 0.313483 seconds
+2025-03-06 13:17:56,096 - Starting face detection for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 13:17:56,175 - Face detected, starting landmark extraction for redis_key: c5b0787bf9bb4d030fe0e0b15d97aadb
+2025-03-06 13:17:56,178 - Landmark extraction completed in 0.002893 seconds
+2025-03-06 13:17:56,443 - Face detection completed in 0.346841 seconds
+2025-03-06 13:17:57,536 - Starting face detection for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 13:17:57,621 - Face detected, starting landmark extraction for redis_key: 5ede97d55c8ced4bc1d1167091258399
+2025-03-06 13:17:57,624 - Landmark extraction completed in 0.002999 seconds
+2025-03-06 13:17:57,905 - Face detection completed in 0.369529 seconds
