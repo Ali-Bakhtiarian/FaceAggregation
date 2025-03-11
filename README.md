@@ -50,10 +50,9 @@ FaceAggregation/
 1. **Clone the Project**:
    - Once uploaded to GitHub, clone it with:
      ```bash
-     git clone https://github.com/yourusername/FaceAggregation.git
+     git clone https://github.com/Ali-Bakhtiarian/FaceAggregation.git
      cd FaceAggregation
      ```
-   - Replace `yourusername` with your GitHub username.
 
 2. **Set Up Conda Environment**:
    ```bash
